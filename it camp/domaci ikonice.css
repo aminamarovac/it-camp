@@ -1,0 +1,45 @@
+
+.class   {
+    border-radius: 20px;
+    width: 450px;
+    height: 690px;
+    background-color: rgb(252, 252, 87);
+border: 2px dashed rgb(54, 9, 9);}
+
+
+
+
+.img2  {
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    width: 450px;
+    height: 220px;
+    
+    
+
+}
+
+.class h2{
+    text-transform: none;
+    font-size: x-large;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.class h3  {
+font-size: x-large;
+padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.class p {
+    font-size: 18px;
+    padding-top: 0px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 10px;
+}
