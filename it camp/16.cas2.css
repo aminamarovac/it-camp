@@ -20,7 +20,7 @@ body  {
     height: 100px;
     position: absolute;
     top: 200px;
-    left: 350px;
+    left: 450px;
     z-index: 2;
 
 }
@@ -30,7 +30,7 @@ body  {
     width: 100px;
     height: 100px;
     position:absolute;
-    left: 300px;
+    left: 500px;
     top: 240px;
 
 }
