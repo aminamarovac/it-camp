@@ -5,7 +5,7 @@
 
 
 body  {
-    font-family::'Fredoka One', cursive ;
+    font-family:'Fredoka One', cursive ;
 }
 
 .parent  {
@@ -20,7 +20,7 @@ body  {
 }
 
 .box:nth-of-type(1)  {
-    /*flex-grow svojsgtvo nam sluzi da definisemo
+    /*flex-grow svojstvo nam sluzi da definisemo
     sirinu naseg kontejnera.Nije
     PRAKSA KORISTITI UZ NJEGA I WIDTH.
     */
