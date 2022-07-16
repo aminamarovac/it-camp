@@ -11,7 +11,10 @@ body  {
 
 body:hover  {
     background-color: rgb(100, 171, 215);
-}
+}  
+
+
+
 header {
     width: 100vw;
     height: 6rem;
