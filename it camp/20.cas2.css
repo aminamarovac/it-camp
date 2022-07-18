@@ -25,6 +25,7 @@ header {
 .parent{
     margin: auto;
     width: 80%;
+    height: 20%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -64,6 +65,10 @@ header {
     width: 90px;
     height: 60px;
 
+}
+
+.main  {
+    height: 50%;
 }
 
 .prvi {
