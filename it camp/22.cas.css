@@ -95,6 +95,12 @@ margin-left: 150px;
 margin-bottom: -10px;
 }
 
+#red {
+    background-color: indianred;
+    width: 30px;
+}
+
+
 .drugi {
     text-align: center;
     width:350px ;
@@ -102,6 +108,19 @@ margin-bottom: -10px;
     background-color: aqua;
     position: absolute;
 margin-left: 600px;
+
+}
+
+#blue  {
+    background-color: rgb(180, 165, 160);
+    width: 30px;
+}
+
+#green  
+{
+    background-color:red;
+    width: 30px;
+    
 
 }
 
@@ -125,6 +144,8 @@ margin-left: 600px;
     margin-right: 540px;
     margin-left: 100px;
 }
+
+
 
 .cetvrti h4  {
     text-align: center;
