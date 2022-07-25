@@ -74,6 +74,7 @@ header  {
     width: 500px;
     height: 300px;
     margin-left: 500px;
+    
 }
 
 
@@ -172,9 +173,7 @@ img  {
 }
 
 @media (min-width:500px),(max-width:620px)  {
-    .head  {
-        width: 90px;
-    }
+
 
     
 }
@@ -182,52 +181,6 @@ img  {
 
     
     @media screen (max-width: 500px)  {
-    .main button  {
-        width: 3rem;
-        height: 2rem;
-    
-        .parent   {
-        
-        width: 100%;
 
-        }
-    
-    .main  {
-        display: flex;
-        align-items: center;
-        bottom: -30px;
-    }
-    
-    .parent h1  {
-        color: rgb(252, 254, 255);
-        margin-top: 25px;
-    }
-    
-    .main   ul  {
-        gap: 3px;
-    }
-
-    .prvi  {
-
-    }display: flex;
-flex-direction: column;
-    
-    
-    .drugi {
-        display: flex;
-flex-direction: column;
-    }
-    
-    .treci {
-        display: flex;
-        flex-direction: column;  
-
-    }
-    
-    
-    .cetvrti  {
-        display: flex;
-flex-direction: column;
-    }
 
 }
